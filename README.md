@@ -1,0 +1,1 @@
+.NET 6 Console Template，You can create projects through its template.

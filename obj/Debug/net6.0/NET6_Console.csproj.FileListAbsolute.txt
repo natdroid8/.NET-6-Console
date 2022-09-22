@@ -1,0 +1,15 @@
+/home/runner/NET-6-Console/bin/Debug/net6.0/NET6_Console
+/home/runner/NET-6-Console/bin/Debug/net6.0/NET6_Console.deps.json
+/home/runner/NET-6-Console/bin/Debug/net6.0/NET6_Console.runtimeconfig.json
+/home/runner/NET-6-Console/bin/Debug/net6.0/NET6_Console.dll
+/home/runner/NET-6-Console/bin/Debug/net6.0/ref/NET6_Console.dll
+/home/runner/NET-6-Console/bin/Debug/net6.0/NET6_Console.pdb
+/home/runner/NET-6-Console/obj/Debug/net6.0/NET6_Console.csproj.AssemblyReference.cache
+/home/runner/NET-6-Console/obj/Debug/net6.0/NET6_Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/NET-6-Console/obj/Debug/net6.0/NET6_Console.AssemblyInfoInputs.cache
+/home/runner/NET-6-Console/obj/Debug/net6.0/NET6_Console.AssemblyInfo.cs
+/home/runner/NET-6-Console/obj/Debug/net6.0/NET6_Console.csproj.CoreCompileInputs.cache
+/home/runner/NET-6-Console/obj/Debug/net6.0/NET6_Console.dll
+/home/runner/NET-6-Console/obj/Debug/net6.0/ref/NET6_Console.dll
+/home/runner/NET-6-Console/obj/Debug/net6.0/NET6_Console.pdb
+/home/runner/NET-6-Console/obj/Debug/net6.0/NET6_Console.genruntimeconfig.cache
